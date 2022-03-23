@@ -1,6 +1,9 @@
-:mortar_board: Currently learning AWS Cloud Management @ [Upskill](https://www.upskill.pt) Lisboa[^1].
+🎓 Currently learning AWS Cloud Management @ [Upskill](https://www.upskill.pt) Lisboa[^1].
 
-:man_teacher: I also teach Multimedia Production @ [CENJOR](https://www.cenjor.pt).
+👨‍🏫 I also teach Multimedia Production @ [CENJOR](https://www.cenjor.pt).
 
+## Interests
+
+⌨️ Trying to get my hands on a [Sweep2.x](https://github.com/davidphilipbarr/Sweep) split mechanical keyboard.
 
 [^1]: It's actually in Sintra.
