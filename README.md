@@ -1,4 +1,4 @@
-🎓 Currently learning AWS Cloud Management @ [Upskill](https://www.upskill.pt) Lisboa[^1].
+🎓 Currently learning to become an AWS Cloud Architect @ [Upskill](https://www.upskill.pt) Lisboa[^1].
 
 👨‍🏫 I also teach Multimedia Production @ [CENJOR](https://www.cenjor.pt).
 
