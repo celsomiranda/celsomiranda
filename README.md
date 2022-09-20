@@ -1,9 +1,9 @@
-🎓 Currently learning to become an AWS Cloud Architect @ [Upskill](https://www.upskill.pt) Lisboa[^1].
+:cloud::mage_man: Busy in the role of AWS Cloud Wizard @ [ISCTE-IUL](https://www.iscte.pt).
 
-👨‍🏫 I also teach Multimedia Production @ [CENJOR](https://www.cenjor.pt).
+:man_teacher: I also teach Multimedia Production @ [CENJOR](https://www.cenjor.pt).
 
 ## Interests
 
 ⌨️ Trying to get my hands on a [Sweep2.x](https://github.com/davidphilipbarr/Sweep) split mechanical keyboard.
 
-[^1]: It's actually in Sintra.
+:man_shrugging: I'm completely obcessed with the immutable operating systems. It all started with [Silverblue](https://silverblue.fedoraproject.org/) and it's ongoing with [NixOS](https://nixos.org/). Send help.:rabbit2:
